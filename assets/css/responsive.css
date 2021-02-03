@@ -1,0 +1,272 @@
+@media (max-width: 1023px) {
+    .hide-on-mobile {
+        display: none;
+    }
+
+    .header {
+        background-color: #fff;
+    }
+
+    .header__cart-menuMobile {
+        display: block;
+    }
+
+    .header-wrap {
+        height: 74px;
+        background-color: #fff;
+        align-items: center;
+    }
+
+    .header__logo-on-moble {
+        width: 48px;
+        height: 48px;
+    }
+
+    .banner-img {
+        width: 100%;
+        height: 100%;
+        border-radius: 8px;
+    }
+
+    .home-banners {
+        margin-top: 24px;
+    }
+
+    .slideshow-dots {
+        margin-top: 12px;
+    }
+
+    .dot {
+        height: 8px;
+        width: 8px;
+    }
+
+    .section__header-title {
+        font-size: 2.4rem;
+        line-height: 3.6rem;
+        font-weight: 700;
+        color: #000;
+    }
+    
+    .commitment-container{
+        margin-top:0px;
+        margin-bottom: auto;
+        
+    }
+
+    .commitment-header {
+        display: block;
+        top: 550px;
+    }
+
+    .commitment-header .section__header-title {
+        width: 100% ;
+    }
+    
+    .commitment-header .section__header-desc {
+        width: 100%;
+        height: 100%;
+    }
+
+    .commitment-decorationImage {
+        height: 70%;
+    }
+
+    /* .decorationImage {
+        width: 41%;
+        height: 51%;
+    } */
+
+    .groupCity {
+        width: 732px;
+        height: 230px;
+    }
+    
+    .droplet-caro {
+        top: 50px;
+        width: 204px;
+        height: 273px;
+    }
+    
+    .droplet-yellow {
+        top: 120px;
+        width: 204px;
+        height: 273px;
+    }
+    
+    .line {
+        top: 470px;
+        /* left: 60px; */
+        right: 160px;
+        width: 519px;
+        height: 96px;
+    }
+    
+    .imgperson {
+        top: 30px;
+        width: 129px;
+        height: 407px;
+
+    }
+
+    .imgperson {
+        bottom: auto;
+        top: 64px;
+    }
+
+    .bannerNewProduct-container {
+        margin-top:250px;
+        height: 100%;
+        padding-bottom: 230px;
+    }
+
+    .bannerNewProduct-content {
+        top:400px;
+    }
+
+    .bannerNewProduct-sample-img {
+        display: block;
+    }
+
+    .bannerNewProduct-sample-layout {
+        top: 50px;
+        width: 100%;
+    }
+
+    .layout-person {
+        width: 53%;
+        top: 0px;
+        right:72px ;
+    }
+
+    .bannerNewProduct-desc {
+        margin-top:32px;
+        position: static;
+        padding: 28px 16px 16px 16px;
+    }
+
+    .home-product {
+        margin-top:200px;
+    }
+
+    .home-product__header {
+        margin-bottom: 36px;
+    }
+
+    .product-item {
+        margin-bottom: 12px;
+        padding: 4px;
+    }
+
+    .product-item__name,
+    .product-item__price,
+    .product-item__rating {
+        padding-left: 12px;
+    }
+
+    .product-item--active .btn-directPurchase {
+        display: block;
+    }
+
+    .feedback-container {
+        margin-top: 72px;
+        max-width: 312px;
+        margin: 0 auto;
+        align-items: center;
+        width: 100%;
+        display: block;
+    }
+
+    .imgComment img {
+        width: 100%;
+    } 
+
+    .feedback-img {
+        width: auto;
+        height: auto;
+    }
+
+    .feedback-container {
+        margin-top: 200px;
+    }
+
+    .feedback__header {
+        margin-bottom: 16px ;
+    }
+
+    .feedback-wrap {
+        margin-top: 50px;
+    }
+
+    .feedback__imgComments {
+        display: block;
+    }
+
+    .imgComment {
+        margin:8px 0;
+    }
+
+    .arrow--up {
+        transform:rotate(-90deg);
+    }
+
+    .arrow--down img{
+        transform:rotate(-90deg);
+        text-align: center;
+        
+    }
+
+    .carsousel-arrow-wrap {
+        display: flex;
+        justify-content: center;
+        margin-left: 0px;
+    }
+
+    .suggest-img {
+        width: 100%;
+    }
+
+    .carsousel-suggest-item {
+        margin:6px auto;
+    }
+
+    .feedback-img img {
+        
+        display: block;
+        width: 307px;
+        height: 360px;
+    }
+
+    .footer {
+        height: 192px;
+        padding-top:21px;
+        padding-bottom: 26px;
+    }
+
+    .category-suggest {
+        flex-wrap: wrap;
+        display: flex;
+        align-items: flex-end;
+    }
+
+    .category-suggest__item {
+        margin-right: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    .socialNetwork-icon-list {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .socialNetwork-icon {
+        margin-right: auto;
+        margin-bottom: ;
+    }
+    
+    .category-suggest {
+        margin
+    }
+
+}
